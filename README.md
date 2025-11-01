@@ -99,8 +99,8 @@ In my design, I used **Blender** for modeling and editing the case.
 form the [3DFile](3DFile) folder the project includes two files:
 
 > [Box](3DFile/camBox.stl)<br><br> > [Box cover](3DFile/camBoxcover.stl)
-> ![""](img/000000000.jpg)
-> ![""](img/000.gif)
+
+- ![""](img/000000000.jpg) ![""](img/000.gif)
 
 <br><br>
 
